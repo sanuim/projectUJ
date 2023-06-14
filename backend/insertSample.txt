@@ -1,0 +1,11 @@
+http://localhost:8080/api/tasks/
+
+{
+    "task_id": 3,
+    "project_id": 1,
+    "task_name": "Task 2",
+    "task_description": "Description for Task 3",
+    "creation_date": "2023-05-15",
+    "deadline": "2023-07-15",
+    "status": "Pending"
+}
